@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"./graphql/graph/internal/database"
+	"graphql/graph/internal/database"
 
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/playground"
