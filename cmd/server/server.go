@@ -3,11 +3,10 @@ package main
 import (
 	"database/sql"
 	"graphql/graphql/graph"
+	"graphql/graphql/graph/intern/database"
 	"log"
 	"net/http"
 	"os"
-
-	"graphql/graph/internal/database"
 
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/playground"
