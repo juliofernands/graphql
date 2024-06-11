@@ -1,6 +1,6 @@
 package graph
 
-import "graphql/graph/internal/database"
+import "graphql/graphql/graph/intern/database"
 
 // This file will not be regenerated automatically.
 //

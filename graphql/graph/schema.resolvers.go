@@ -7,7 +7,7 @@ package graph
 import (
 	"context"
 	"fmt"
-	"graphql/graph/model"
+	"graphql/graphql/graph/model"
 )
 
 // CreateCategory is the resolver for the createCategory field.

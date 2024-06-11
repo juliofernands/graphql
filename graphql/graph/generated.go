@@ -8,7 +8,7 @@ import (
 	"embed"
 	"errors"
 	"fmt"
-	"graphql/graph/model"
+	"graphql/graphql/graph/model"
 	"strconv"
 	"sync"
 	"sync/atomic"
